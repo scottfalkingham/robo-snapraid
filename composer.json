@@ -6,6 +6,7 @@
             "email": "scott@falkingham.ca"
         }
     ],
+    "version": "0.0.1",
     "require": {
         "consolidation/Robo": "~1"
     },
