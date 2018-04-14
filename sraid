@@ -1,0 +1,17 @@
+#!/usr/bin/env robo
+<?php
+
+class SnapRaid extends \Robo\Tasks
+{
+    /**
+     * Foo
+     *
+     * A demonstration of a command in a Robo script.
+     *
+     * @param string $name a name that is printed.
+     */
+    public function foo()
+    {
+        $this->say("This is a Robo script, snapraid");
+    }
+}

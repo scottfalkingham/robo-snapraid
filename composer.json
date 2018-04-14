@@ -1,0 +1,15 @@
+{
+    "name": "scottfalkingham/robo-snapraid",
+    "authors": [
+        {
+            "name": "Scott Falkingham",
+            "email": "scott@falkingham.ca"
+        }
+    ],
+    "require": {
+        "consolidation/Robo": "~1"
+    },
+    "bin": [
+        "sraid"
+    ]
+}
